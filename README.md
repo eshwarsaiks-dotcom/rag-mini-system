@@ -16,3 +16,7 @@ At query time, relevant chunks are retrieved and optionally passed to an LLM for
 - Embedding and retrieval work fully offline.
 - LLM usage is optional and may be limited by API quota.
 - The system is designed to be simple, modular, and extensible.
+
+# rag-mini-system
+Mini RAG system – Data/ML Engineer technical challenge
+56b307bd51bd2ff14b15b7bc3028d896acdc3722
